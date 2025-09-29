@@ -1,0 +1,17 @@
+{
+    "MATCH_SETTINGS": {
+        "WHOSCORED_URL": "https://www.whoscored.com/matches/1903186/live/england-premier-league-2025-2026-newcastle-arsenal",
+        "DATA_DIR": "./data",
+        "OUTPUT_FILE_DASHBOARD": "dashboard_NEW_ARS_4x3.png"
+    },
+    "TEAM_COLORS": {
+        "HOME_COLOR": "#43A1D5",
+        "AWAY_COLOR": "#FF4C4C",
+        "HOME_NAME": "Newcastle",
+        "AWAY_NAME": "Arsenal"
+    },
+    "AESTHETICS": {
+        "BG_COLOR": "#0C0D0E",
+        "LINE_COLOR": "white"
+    }
+}
